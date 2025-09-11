@@ -1,2 +1,0 @@
-# b.econ
-my notes
